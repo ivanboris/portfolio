@@ -19,7 +19,6 @@
  6. Общий вывод.
  
  ## Используемые библиотеки
-- Python
 - Pandas
 - Matplotlib
 - NumPy
