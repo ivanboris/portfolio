@@ -10,6 +10,9 @@
 
 ## Ссылка на дашборд
 https://public.tableau.com/app/profile/ivan8270/viz/A__16635691153330/A_/
+
+## Ссылка на презентацию
+https://drive.google.com/file/d/1gf2_ZhhiteqnbsjornHAUfcchI4HG8xd/view?usp=share_link
  
  ## Навыки и инструменты
 - SQLAlchemy
