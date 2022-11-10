@@ -28,7 +28,7 @@
  3. Анализ данных.
  4. Вывод.
  
- ##Ссылка на презентацию
+ ##  Ссылка на презентацию
  https://drive.google.com/file/d/1xlGFDZqMkBfTWvyugrdhfRby7c4z9Q2G/view?usp=share_link
  
  ## Используемые библиотеки
