@@ -20,3 +20,6 @@ https://drive.google.com/file/d/1Y9tFV7VCeAc_lcQFIRIubFElT0-82-7J/view?usp=share
 - Dash
 - Tableau
 - Построение дашбордов
+
+## Статус
+Прект завершен
