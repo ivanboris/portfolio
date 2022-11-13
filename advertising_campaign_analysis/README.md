@@ -18,3 +18,6 @@
 - Pandas
 - Matplotlib
 - Seaborn
+
+## Статус
+Прект завершен
