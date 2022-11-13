@@ -28,3 +28,6 @@
 - Pandas
 - Matplotlib
 - NumPy
+
+## Статус
+Прект завершен
