@@ -23,3 +23,6 @@
 - Matplotlib
 - NumPy
 - SciPy
+
+## Статус
+Прект завершен
